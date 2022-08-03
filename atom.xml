@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>By Yize</title>
   <icon>https://yize.blog/icon.png</icon>
-  <subtitle>What&#39;s going on inside Yize&#39;s mind</subtitle>
+  
   <link href="https://yize.blog/atom.xml" rel="self"/>
   
   <link href="https://yize.blog/"/>
