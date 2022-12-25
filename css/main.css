@@ -25,37 +25,37 @@
   color-scheme: light;
 }
 @font-face {
-  font-family: 'LXGW Bright Regular';
+  font-family: 'LXGWBright-Regular';
   src: url("../fonts/LXGWBright-Regular.woff") format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  font-family: 'LXGW Bright Italic';
+  font-family: 'LXGWBright-Italic';
   src: url("../fonts/LXGWBright-Italic.woff") format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  font-family: 'LXGW Bright Medium';
+  font-family: 'LXGWBright-Medium';
   src: url("../fonts/LXGWBright-Medium.woff") format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  font-family: 'LXGW Bright MediumItalic';
+  font-family: 'LXGWBright-MediumItalic';
   src: url("../fonts/LXGWBright-MediumItalic.woff") format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  font-family: 'LXGW Bright SemiLight';
+  font-family: 'LXGWBright-SemiLight';
   src: url("../fonts/LXGWBright-SemiLight.woff") format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  font-family: 'LXGW Bright SemiLightItalic';
+  font-family: 'LXGWBright-SemiLightItalic';
   src: url("../fonts/LXGWBright-SemiLightItalic.woff") format('woff');
   font-weight: normal;
   font-style: normal;
@@ -220,7 +220,7 @@ body {
   background: var(--body-bg-color);
   box-sizing: border-box;
   color: var(--text-color);
-  font-family: LXGW Bright, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: LXGWBright-Regular, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1em;
   line-height: 2;
   min-height: 100%;
@@ -233,7 +233,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: LXGW Bright, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: LXGWBright-Regular, LXGWBright-Regular, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-weight: bold;
   line-height: 1.5;
   margin: 30px 0 15px;
@@ -442,7 +442,7 @@ pre figcaption a:hover {
 }
 pre,
 code {
-  font-family: consolas, Menlo, monospace, 'PingFang SC', 'Microsoft YaHei';
+  font-family: LXGWBright-Regular, consolas, Menlo, monospace, 'PingFang SC', 'Microsoft YaHei';
 }
 code {
   border-radius: 3px;
@@ -1150,7 +1150,7 @@ pre code {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: LXGW Bright, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: LXGWBright-Regular, LXGWBright-Regular, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1.375em;
   font-weight: normal;
   line-height: 1.5;
@@ -1789,7 +1789,7 @@ pre code {
   width: 4px;
 }
 .post-body {
-  font-family: LXGW Bright, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: LXGWBright-Regular, LXGWBright-Regular, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   overflow-wrap: break-word;
 }
 @media (min-width: 1200px) {
@@ -1976,7 +1976,7 @@ pre code {
 }
 .posts-expand .post-meta-container {
   color: #999;
-  font-family: LXGW Bright, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: LXGWBright-Regular, LXGWBright-Regular, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 0.75em;
   margin-top: 3px;
 }
@@ -2533,7 +2533,7 @@ ul.breadcrumb li:last-child {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #1744d7;
+  background: #25ff16;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
